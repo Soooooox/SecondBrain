@@ -1,6 +1,6 @@
 # 软件-网盘-OneDrive-Ubuntu 18.04（skilion）
 
-**备注**：针对 abraunegg 仓库版本的 OneDrive
+**备注**：针对 skilion 仓库版本的 OneDrive
 
 ## OneDrive 的安装
 
