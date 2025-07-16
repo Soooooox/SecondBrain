@@ -1,4 +1,4 @@
-# qBittorrent EE
+# 软件-下载器-qBittorrent-04-qBittorrent EE
 
 **简介**：对原版 qBittorrent 添加屏蔽迅雷等吸血端的操作
 
