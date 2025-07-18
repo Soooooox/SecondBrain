@@ -46,7 +46,6 @@
 
 ```c++
 #include "功能包名/头文件.h"
-#include "ros/ros.h"
 
 函数实现
 ```
@@ -54,7 +53,6 @@
 ## 可执行文件的编写
 
 ```c++
-#include "ros/ros.h"
 #include "功能包名/头文件.h"
 
 函数的调用等
@@ -90,3 +88,8 @@ target_link_libraries(执行文件名
   ${catkin_LIBRARIES}
 )
 ```
+
+以下根据情况选择：（保守做法：始终包含这两行）
+
+- `add_dependencies(库名称 ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})`
+- `add_dependencies(执行文件名 ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})`
