@@ -97,6 +97,13 @@
 - 积分 $\int_{a}^{b}$：`\int_{上届}^{下界}`
 - 无穷 $\infty$：`\infty`
 
+## 括号
+
+- 小括号 $()$：`()`
+- 方括号 $[]$：`[]`
+- 大括号 $\lbrace \rbrace$：左 `\lbrace`、右 `\rbrace`
+- 尖括号 $\langle \rangle$：左 `\langle`、右 `\rangle`
+
 ## 多行对齐公式
 
 **行内公式**：
@@ -144,3 +151,4 @@
 ## 参考
 
 - 整体：[菜鸟教程 Markdown 数学公式](https://www.runoob.com/markdown/md-math.html)
+- `括号`：[Github Markdown 中的公式书写](https://arthur-delacroix.github.io/2021/03/13/Github/Github%20Markdown%20%E4%B8%AD%E7%9A%84%E5%85%AC%E5%BC%8F%E4%B9%A6%E5%86%99/)
