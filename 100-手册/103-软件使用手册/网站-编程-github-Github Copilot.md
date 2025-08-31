@@ -25,7 +25,10 @@
 
 ### 三、申请过程
 
-> **注意**：提前关闭梯子
+> **注意**：
+>
+> - 提前关闭梯子
+> - 推荐在电脑端使用 [Steamcommunity 302](https://www.dogfight360.com/blog/18682/) 修改 host 的方式登录 Github 进行申请（已验证）
 
 1. 进入 [Education benefits](https://github.com/settings/education/benefits)，点击 `Start an application`
 
@@ -41,7 +44,9 @@
     点击 `Continue` 会开启定位，需要关闭梯子（最好在学校附近）
 
 4. 进入拍照环节，拍下录取通知书等
-    - 备注：最好使用手机拍照（只能用前置摄像头），别用上传
+    - 备注 1：最好使用拍照方式，别用上传
+    - 备注 2：使用手机的情况下，拍照只会使用前置摄像头
+    - 推荐：电脑端摄像头拍照
 5. 点击 `Process my application` 提交
 6. 等待通过，进入 [Education benefits](https://github.com/settings/education/benefits) 查看
    - `rejected`：查看拒绝理由，进行完全资料等
